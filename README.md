@@ -7,7 +7,7 @@ Main goal of this project is Search Widget that is created to be reuseable and i
 
 The idea of this project is to compare two movies while fetching data from free API.
 
-Main focus here is practicing JS while exproring Bulma and Font Awesome as extra free resources for future projects.
+Main focus here is practicing JS while exploring Bulma and Font Awesome as extra free resources for future projects.
 
 Explanation of the code (process making) is inside of every file in comments.
 
